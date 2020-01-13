@@ -1,0 +1,10 @@
+@import "../utilities/variables";
+
+.company-branding {
+  display: flex;
+  align-items: center;
+}
+
+.company-name {
+  color: $color-white;
+}

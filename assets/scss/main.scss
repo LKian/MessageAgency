@@ -1,0 +1,22 @@
+@charset 'UTF-8';
+
+// PARTIALS
+@use "utilities/variables";
+@use "vendor/normalize";
+@use "components/button";
+@use "components/company";
+@use "base/base";
+@use "base/colors";
+@use "base/fonts";
+@use "layout/header";
+@use "layout/hero";
+@use "layout/companyInfo";
+@use "layout/cta";
+@use "layout/featured";
+@use "layout/footer";
+
+// FONTAWESOME
+@import "vendor/fontawesome/fontawesome.scss";
+@import "vendor/fontawesome/brands.scss";
+@import "vendor/fontawesome/solid.scss";
+@import "vendor/fontawesome/regular.scss";

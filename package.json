@@ -1,0 +1,23 @@
+{
+  "name": "leah_kahwadjian",
+  "version": "1.0.0",
+  "description": "A prestigious international non-profit organization, StopDeath.org, has sought out your expertise as a highly-skilled front-end developer. They've commissioned a design mockup from a well-known designer, but their resources have fallen short on implementation. Your task is to rescue StopDeath.org's project and see the implementation to completion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lkian@bitbucket.org/messageagency/leah_kahwadjian.git"
+  },
+  "keywords": [
+    "messageagency",
+    "mockup"
+  ],
+  "author": "LK",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/messageagency/leah_kahwadjian#readme",
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
